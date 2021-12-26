@@ -1,4 +1,3 @@
-(!DOCTYPE html)
 html
 -------------------------------------
 | h1 Self Promo /h1                 |
